@@ -3,7 +3,7 @@ Project: Calculator
 Name: Kenneth Nguon
 Date: 11/9/17
 */
-
+//I suck
 float input1, input2, result;
 String operator;
 
